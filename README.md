@@ -2,6 +2,7 @@
 
 A fun and interactive word-matching game built with React.js. The game allows users to match pairs of words, track their attempts, and configure various settings such as group size, item count, and grid layout.
 
+## Hosted Link - https://word-connect-5ow7.onrender.com
 ## Features ✨
 
 1. Word Matching Logic:
